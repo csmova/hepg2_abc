@@ -12,4 +12,4 @@ The analyses are divided into the following Jupyter notebooks, and should be run
 5. Gene ontology
 6. Literature comparison 
 
-Requirements:
+Requirements: see environment.yml
